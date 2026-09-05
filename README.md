@@ -2,6 +2,8 @@
 
 Tool to display bin files created by an Owon XDS2102A Oscilloscope.
 
+![Owon Image](https://raw.githubusercontent.com/frcocoatst/Owon_XDS2102A_v8/main/overview.png)
+
 ## Documentation
 📄 [Owon XDS2102A Documentation (PDF)](Owon_XDS2102A_v8_Doku.pdf)
  
