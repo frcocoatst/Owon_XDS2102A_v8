@@ -6,16 +6,14 @@ File format:
 
 SPBXDS followed by the 4 Bytes length of the following JSON description  
 eg.: A8020000 meaning 680 Bytes of JSON description
-![Owon Image](https://github.com/frcocoatst/Owon_XDS2102A_v8/Owon_XDS2102A_v8/p0.jpg)
-
-
+![Owon Image](https://raw.githubusercontent.com/frcocoatst/Owon_XDS2102A_v8/main/Owon_XDS2102A_v8/p0.jpg)
 
 followed by 10000 2Bytes Values (corresponds Data_length 10000 in JSON block)
-![Owon Image](https://github.com/frcocoatst/Owon_XDS2102A/blob/master/p2.jpg)
+![Owon Image](https://raw.githubusercontent.com/frcocoatst/Owon_XDS2102A_v8/main/Owon_XDS2102A_v8/p2.jpg)
 
 In case a second channel is stored the JSON block is longer
 eg.: 09050000 meaning 1289 Bytes of JSON description
-![Owon Image](https://github.com/frcocoatst/Owon_XDS2102A/blob/master/p1.jpg)
+![Owon Image](https://raw.githubusercontent.com/frcocoatst/Owon_XDS2102A_v8/main/Owon_XDS2102A_v8/p1.jpg)
 
 Followed by 2 * 10000 2 Bytes Values ...
 
